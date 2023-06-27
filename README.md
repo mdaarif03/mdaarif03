@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Aarif Raza</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaarif03&label=Profile%20views&color=0e75b6&style=flat" alt="mdaarif03" /> </p>
 
