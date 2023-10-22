@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaarif03&label=Profile%20views&color=0e75b6&style=flat" alt="mdaarif03" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdaarif0](https://github.com/mdaarif0)
+- 👨‍💻 All of my projects are available at [https://github.com/mdaarif0](https://github.com/mdaarif03)
 
 - 📫 How to reach me **mdaarifraza03@gmail.com**
 
